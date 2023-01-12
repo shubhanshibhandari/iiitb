@@ -1,0 +1,1 @@
+reading from this file is allowed only to two users at a time
